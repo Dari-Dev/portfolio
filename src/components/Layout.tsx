@@ -67,7 +67,7 @@ export function Layout({ children }: LayoutProps) {
       <footer className="py-8 border-t border-gray-800/50 bg-black">
         <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-gray-400 font-medium">Diseñado y desarrollado por Darlyn</div>
-          <div className="text-gray-500">© 2024 Todos los derechos reservados</div>
+          <div className="text-gray-500">© 2025 Todos los derechos reservados</div>
         </div>
       </footer>
     </div>
