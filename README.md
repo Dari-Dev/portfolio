@@ -10,7 +10,7 @@ Hola! Soy **Darlyn**, normalmente trabajo con Vue, pero este proyecto es mi prim
 
 ## 🚀 Cómo probarlo
 ```bash
-git clone https://github.com/usuario/portafolio.git
+git clone 
 cd portafolio
 npm install
 npm run dev
