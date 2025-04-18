@@ -16,7 +16,7 @@ export function SkillsSection({ skills }: SkillsProps) {
       <div className="container mx-auto px-6 relative">
         <div className="flex flex-col items-center mb-16">
           <h2 className="text-4xl font-bold mb-4 tracking-tight">
-            Mis <span className="text-emerald-400">Especialidades</span>
+            Mis <span className="text-emerald-400">Skills</span>
           </h2>
         </div>
         <div className="grid md:grid-cols-3 gap-8">

@@ -8,7 +8,7 @@ export default function Portfolio() {
   const skills = {
     frontend: [
       "Vue.js",
-      "JavaScript / TypeScript",
+      "JavaScript",
       "HTML5 / CSS3",
       "Tailwind CSS",
       "Responsive Design",
