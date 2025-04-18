@@ -1,6 +1,6 @@
 # 🍓 Portafolio con React 
 
-Hola! Soy **Darlyn**, normalmente trabaja con Vue.js, pero este proyecto es mi primer portafolio construido con React como desafío personal.
+Hola! Soy **Darlyn**, normalmente trabajo con Vue, pero este proyecto es mi primer portafolio construido con React como desafío personal.
 
 ## ✨ Tecnologías principales
 - React 18
